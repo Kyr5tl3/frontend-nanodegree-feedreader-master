@@ -58,6 +58,10 @@ $(function() {
          * hiding/showing of the menu element.
          */
 
+         it('is hidden by default', function () {
+            expect($('body').hasClass('menu-hidden')).toBe(true)
+         });
+
          /* TODO: Write a test that ensures the menu changes
           * visibility when the menu icon is clicked. This test
           * should have two expectations: does the menu display when
@@ -79,4 +83,5 @@ $(function() {
          * by the loadFeed function that the content actually changes.
          * Remember, loadFeed() is asynchronous.
          */
+       });
 }());
