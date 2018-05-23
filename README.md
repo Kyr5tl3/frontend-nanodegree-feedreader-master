@@ -5,7 +5,7 @@
 * [Introduction](#introduction)
 * [Instructions](#instructions)
 * [Functionality](#functionality)
-* [To View Results](#to view results)
+* [Results](#results)
 * [License](#license)
 
 ## Introduction
@@ -28,7 +28,7 @@ The following functionality has been tested:
       - has changed from the last feed
 
 
-## To View Results
+## Results
 
 Download the project and open the index.html file to begin.
 
